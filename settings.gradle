@@ -1,0 +1,4 @@
+rootProject.name = 'kafka_demo'
+include 'kafka_demo_01'
+include 'kafka_demo_02'
+
