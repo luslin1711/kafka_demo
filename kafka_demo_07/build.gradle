@@ -16,8 +16,6 @@ dependencies {
     compile (
             'org.apache.kafka:kafka_2.13:2.6.0',
             'io.protostuff:protostuff-runtime:1.7.2',
-            'io.protostuff:protostuff-core:1.7.2',
-            'org.apache.logging.log4j:log4j-core:2.13.3',
-            'org.apache.logging.log4j:log4j-api:2.13.3'
+            'io.protostuff:protostuff-core:1.7.2'
     )
 }
